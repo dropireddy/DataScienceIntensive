@@ -1,2 +1,2 @@
 # DataScienceIntensive
-Springboard Course Code+Docs
+Python scripts for the Data Science in Python Code+Docs
